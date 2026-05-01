@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Transformando seu negócio em uma loja virtual",
+    "date": "2024-12-20T13:20:00.000Z",
+    "description": "Se você está buscando uma maneira simples e eficaz de vender seus produtos online, o Site.Set é a solução perfeita para você.",
+    "image": "/assets/primeiro-post.png",
+    "content": "<p><a href=\"https://www.youtube.com/\">Esse é um link em Markdown</a></p>\n<p>Se você está buscando uma maneira simples e eficaz de vender seus produtos online, o Site.Set é a solução perfeita para você. Criar uma loja virtual de sucesso nunca foi tão fácil. Com nossa plataforma intuitiva, você pode criar um site profissional para sua loja em minutos, sem precisar de conhecimentos técnicos.</p>\n<p>Veja o que nossa plataforma oferece:</p>\n<p><strong>Loja responsiva</strong>: Sua loja estará otimizada para todos os dispositivos, garantindo uma experiência de compra perfeita em qualquer tela.</p>\n<p><strong>Gestão de inventário</strong>: Organize seus produtos com facilidade e mantenha o controle sobre o estoque de sua loja.</p>\n<p><strong>Formas de pagamento</strong>: Aceite pagamentos de forma rápida e segura com várias opções de gateways de pagamento.</p>\n<p><strong>SEO e Marketing</strong>: Nossa plataforma já vem com ferramentas de SEO integradas para ajudar sua loja a ser encontrada mais facilmente nos motores de busca.</p>\n<p><strong>Suporte especializado</strong>: Nossa equipe de suporte está sempre disponível para ajudar você com qualquer dúvida ou desafio.\r\nEstá pronto para colocar seus produtos no mundo? Com o Site.Set, criar sua loja online é rápido, simples e acessível. Desde a configuração do site até a finalização da compra, oferecemos todas as ferramentas necessárias para você vender com sucesso.</p>",
+    "raw": "[Esse é um link em Markdown](https://www.youtube.com/)\r\n\r\nSe você está buscando uma maneira simples e eficaz de vender seus produtos online, o Site.Set é a solução perfeita para você. Criar uma loja virtual de sucesso nunca foi tão fácil. Com nossa plataforma intuitiva, você pode criar um site profissional para sua loja em minutos, sem precisar de conhecimentos técnicos.\r\n\r\nVeja o que nossa plataforma oferece:\r\n\r\n**Loja responsiva**: Sua loja estará otimizada para todos os dispositivos, garantindo uma experiência de compra perfeita em qualquer tela.\r\n\r\n**Gestão de inventário**: Organize seus produtos com facilidade e mantenha o controle sobre o estoque de sua loja.\r\n\r\n**Formas de pagamento**: Aceite pagamentos de forma rápida e segura com várias opções de gateways de pagamento.\r\n\r\n**SEO e Marketing**: Nossa plataforma já vem com ferramentas de SEO integradas para ajudar sua loja a ser encontrada mais facilmente nos motores de busca.\r\n\r\n**Suporte especializado**: Nossa equipe de suporte está sempre disponível para ajudar você com qualquer dúvida ou desafio.\r\nEstá pronto para colocar seus produtos no mundo? Com o Site.Set, criar sua loja online é rápido, simples e acessível. Desde a configuração do site até a finalização da compra, oferecemos todas as ferramentas necessárias para você vender com sucesso.",
+    "author": {
+      "name": "Aspen Dokidis",
+      "avatar": "/customers/customer-01.png"
+    },
+    "slug": "primeiro-post"
+  },
+  {
+    "title": "5 motivos para escolher o Site.Set",
+    "date": "2024-11-20T13:20:00.000Z",
+    "description": "O Site.Set oferece tudo o que você precisa para criar uma loja online eficiente e personalizada. Desde a integração com sistemas de pagamento",
+    "image": "/assets/segundo-post.png",
+    "content": "<p>O Site.Set oferece tudo o que você precisa para criar uma loja online eficiente e personalizada. Desde a integração com sistemas de pagamento até a criação de páginas de vendas, veja por que milhares de empreendedores escolhem nossa plataforma.</p>",
+    "raw": "O Site.Set oferece tudo o que você precisa para criar uma loja online eficiente e personalizada. Desde a integração com sistemas de pagamento até a criação de páginas de vendas, veja por que milhares de empreendedores escolhem nossa plataforma.",
+    "author": {
+      "name": "Dulce Westervelt",
+      "avatar": "/customers/customer-03.png"
+    },
+    "slug": "segundo-post"
+  }
+]
