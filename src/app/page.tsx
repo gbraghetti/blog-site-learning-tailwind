@@ -22,6 +22,19 @@ export const metadata: Metadata = {
       },
     ],
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Site.Set",
+    description: "Venda seus produtos como afiliado em um único lugar",
+    images: [
+      {
+        url: "https://blog-site-learning-tailwind.vercel.app/og-image.jpg",
+        width: 800,
+        height: 600,
+        alt: "Site.Set",
+      },
+    ],
+  },
 };
 
 export default function HomePage() {
